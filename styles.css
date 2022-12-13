@@ -299,3 +299,13 @@ a.link:hover {
   background-color: #ff0000;
   box-shadow: 8px 8px 14px -8px #ff0000;
 }
+
+.moneypig {
+  background-color: #ffe3a8;
+  box-shadow: 8px 8px 14px -8px #ffe3a8;
+}
+
+.aliexpress {
+  background-color: #e85654;
+  box-shadow: 8px 8px 14px -8px #e85654;
+}
